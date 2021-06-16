@@ -28,7 +28,7 @@ This Instagram clone was configured and deployed to AWS as part of my **AWS Clou
 
 AWS S3  
 AWS IAM  
-AWS Redis - PostgreSQL
+AWS RDS - PostgreSQL
 
 #### Containerization
 
